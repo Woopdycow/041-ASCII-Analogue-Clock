@@ -1,0 +1,18 @@
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - In Progress\ASCII Analogue Clock\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.exe.config
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - In Progress\ASCII Analogue Clock\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - In Progress\ASCII Analogue Clock\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - In Progress\ASCII Analogue Clock\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.csprojResolveAssemblyReference.cache
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - In Progress\ASCII Analogue Clock\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - In Progress\ASCII Analogue Clock\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - In Progress\ASCII Analogue Clock_v1\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.exe.config
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - In Progress\ASCII Analogue Clock_v1\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - In Progress\ASCII Analogue Clock_v1\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - In Progress\ASCII Analogue Clock_v1\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - In Progress\ASCII Analogue Clock_v1\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - In Progress\ASCII Analogue Clock_v1\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.csprojResolveAssemblyReference.cache
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - Complete\ASCII Analogue Clock_v1\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.exe.config
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - Complete\ASCII Analogue Clock_v1\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - Complete\ASCII Analogue Clock_v1\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - Complete\ASCII Analogue Clock_v1\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - Complete\ASCII Analogue Clock_v1\ASCII Analogue Clock\bin\Debug\ASCII Analogue Clock.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\041 - ASCII Analogue Clock - Complete\ASCII Analogue Clock_v1\ASCII Analogue Clock\obj\Debug\ASCII Analogue Clock.csprojResolveAssemblyReference.cache
